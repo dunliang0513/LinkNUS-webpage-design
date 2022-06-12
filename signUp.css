@@ -1,0 +1,12 @@
+.join-text {
+    font-family: "Martel";
+    font-size: 7em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.accent-text {
+    font-weight: lighter;
+    font-size: 2rem;
+    text-align: center;
+}

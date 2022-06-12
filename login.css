@@ -1,0 +1,18 @@
+.color-overlay {
+    height: 100%;
+    width: 100%;
+    background: #000;
+    opacity: 0.7;
+    position: absolute;
+    z-index: -1;
+}
+
+.forgotten-password {
+    color: white;
+    text-align: center;
+    list-style: none;
+}
+
+.join-form {
+    align-items: center;
+}
